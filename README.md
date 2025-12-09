@@ -53,7 +53,7 @@ QUOTE: "I fight for the users." - Tron
 ~/17❯ ./checkStatus.sh
 ERROR: motivation.service failed to start
   at /home/boltman/life.py (line 18)
-  at https://linktr.ee/bolthead (segfault)
+  at https://linktr.ee/boltman (segfault)
 
 Attempting restart in 5... 4... 3... 2...
 ^C
