@@ -33,15 +33,15 @@ Found swap files:
    1. ~/docs/notes/shuttle/25-12-07.md (Dec 07 20:41)
       "I've always dreamt about being normal... but that's impossible."
    2. heart.c (Dec 01 11:08)
-      "// it's like... everythin stopped for 5!"
+      "// it's like... everythin stopped for 5 seconds!"
    
 ~/17❯ ls --width 1 
- grace -- learnin' area... python, c!
- cinephile -- it's hard to put in a nutshell.
- dots -- my dotfiles... BONUS: scripts in there too...
+grace -- learnin' area... python, c!
+cinephile -- it's hard to put in a nutshell.
+dots -- my dotfiles... BONUS: scripts in there too...
 
 ~/17❯ grep -r "quote" ~/vids/movies
-QUOTE: "I fight for the users." - Tron
+QUOTE: "Take something bad and make something good out of it" -- Adebayo (from Peacemaker)
 
 ~/17❯ ./checkStatus.sh
 ERROR: motivation.service failed to start
@@ -56,6 +56,6 @@ Attempting restart in 5... 4... 3... 2...^C
 
 _Alright it's time to grab some coffee... or actually study... or maybe movies... I don't know!!!_
 
-\[NOW PLAYING] Shadow Over Me -- Nine Inch Nails (TRON: Ares)
+\[NOW PLAYING] Call Me -- Go West
 
 **END OF LINE**
