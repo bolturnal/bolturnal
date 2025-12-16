@@ -21,13 +21,6 @@ class AboutMe:
             "Bash":   "starting to like it [ but it's very weird... honestly ]",
             "C":      "printf('just getting started\n');"
         }
-        self.setup = {
-            "OS":       "Arch BTW",
-            "WM":       "Hyprland",
-            "Editor":   "Neovim", 
-            "Shell":    "zsh",
-            "Terminal": "kitty"  # only kitty I can have.
-        }
         self.vibe = "CLI > GUI"
         self.mbti = "INFP > INTP"
 ^[:wq
@@ -55,10 +48,9 @@ ERROR: motivation.service failed to start
   at /home/boltman/life.py (line 18)
   at https://linktr.ee/boltman (segfault)
 
-Attempting restart in 5... 4... 3... 2...
-^C
+Attempting restart in 5... 4... 3... 2...^C
 
-~/17❯ sudo shutdown now
+~/17❯ rivers shutdownu
 [sudo] password for boltman:
 ```
 
