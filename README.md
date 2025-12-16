@@ -56,6 +56,6 @@ Attempting restart in 5... 4... 3... 2...^C
 
 _Alright it's time to grab some coffee... or actually study... or maybe movies... I don't know!!!_
 
-\[NOW PLAYING] ![Call Me -- Go West](https://music.youtube.com/watch?v=53QELDvqpxA)
+\[NOW PLAYING] [Call Me -- Go West](https://music.youtube.com/watch?v=53QELDvqpxA)
 
 **END OF LINE**
