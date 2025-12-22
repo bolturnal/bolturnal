@@ -17,9 +17,9 @@ class AboutMe:
         self.location = "/home/the-grid"
         self.age = 17
         self.langs = {
-            "Python": "getting a good enough grip", # NOTE: I don't care 'bout PEP8 Rules
-            "Bash":   "starting to like it [ but it's very weird... honestly ]",
-            "C":      "printf('just getting started\n');"
+            "Python" : "getting a good enough grip", # NOTE: I don't care 'bout PEP8 Rules
+            "Shell"  : "starting to like it [ but it's very weird... honestly ]",
+            "C"      : "printf('just getting started\n');"
         }
         self.vibe = "CLI > GUI"
         self.mbti = "INFP > INTP"
@@ -35,12 +35,7 @@ Found swap files:
    2. heart.c (Dec 01 11:08)
       "// it's like... everythin stopped for 5 seconds!"
    
-~/17❯ ls --width 1 
-grace -- learnin' area... python, c!
-cinephile -- it's hard to put in a nutshell.
-dots -- my dotfiles... BONUS: scripts in there too...
-
-~/17❯ grep -r "quote" ~/vids/movies
+~/17❯ grep -r "quote" ~/vids/shows/.watched/peacemaker_s2_2025
 QUOTE: "Take something bad and make something good out of it" -- Adebayo (from Peacemaker)
 
 ~/17❯ ./checkStatus.sh
@@ -50,12 +45,13 @@ ERROR: motivation.service failed to start
 
 Attempting restart in 5... 4... 3... 2...^C
 
-~/17❯ rivers shutdownu
+~/17❯ sudo shutdown now 
 [sudo] password for boltman:
 ```
 
 _Alright it's time to grab some coffee... or actually study... or maybe movies... I don't know!!!_
 
 \[NOW PLAYING] [Call Me -- Go West](https://music.youtube.com/watch?v=53QELDvqpxA)
+
 
 **END OF LINE**
