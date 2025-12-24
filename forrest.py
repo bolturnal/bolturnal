@@ -12,7 +12,7 @@ aboutMe: dict = {
     "programs": {
         "python": "good enough grip",  # NOTE: fuck PEP8 rules
         "shell": "[[ it's very weird ]]",
-        "c": "printf('just gettin started\n'); // almost forgot the simicolon",
+        "c": 'printf("just gettin started\n"); // almost forgot the simicolon',
     },
     "vibe": "cli > gui",
     "mbti": "infp > intp",
