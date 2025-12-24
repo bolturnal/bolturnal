@@ -24,7 +24,7 @@ zsh: permission denied: ./forrest.py
     "programs": {
         "python": "good enough grip",
         "shell": "[[ it's very weird ]]",
-        "c": "printf('just gettin started\n'); // almost forgot the simicolon"
+        "c": 'printf("just gettin started\n"); // almost forgot the simicolon'
     },
     "vibe": "cli > gui",
     "mbti": "infp > intp"
