@@ -84,24 +84,24 @@ Watch a [Movie](https://letterboxd.com/theBoltMan)? but I've got _exams_.
 I need to study for 'em... but I'm tired.
 Maybe I should torture myself and make that coffee.
 
-\[NOW PLAYING] [Hitchin' a Ride](https://music.youtube.com/watch?v=dgvyVEOJqxg)
-\[NOW PLAYING] [Wind Of Change](https://music.youtube.com/watch?v=nw9NyUFJWXE)
-\[NOW PLAYING] [Knockin' on Heaven's Door](https://music.youtube.com/watch?v=KzmuOh56U8Y) (wanted to replay but didn't)
-\[NOW PLAYING] [New Brain](https://music.youtube.com/watch?v=juegigKuwm4)
+- \[NOW PLAYING] [Hitchin' a Ride](https://music.youtube.com/watch?v=dgvyVEOJqxg)
+- \[NOW PLAYING] [Wind Of Change](https://music.youtube.com/watch?v=nw9NyUFJWXE)
+- \[NOW PLAYING] [Knockin' on Heaven's Door](https://music.youtube.com/watch?v=KzmuOh56U8Y) (wanted to replay but didn't)
+- \[NOW PLAYING] [New Brain](https://music.youtube.com/watch?v=juegigKuwm4)
 
 _18 minutes later_
 
 And the coffee sucks. Anyways... wait... where was I? Oh right. I have to study.
 But caffeine takes about 30 minutes to work. I should write today's _journal--shuttle_ then.
 
-\[NOW PLAYING] [This is Halloween](https://music.youtube.com/watch?v=VpS5vMlmqK4) (skipped after 6s)
-\[NOW PLAYING] [Halah](https://music.youtube.com/watch?v=vHGHcvJDpaA)
-\[NOW PLAYING] [Call Me](https://music.youtube.com/watch?v=53QELDvqpxA)
-\[NOW PLAYING] [F1](https://music.youtube.com/watch?v=YhX_Woa3kVA) (i'm not in the racing mood rn)
-\[NOW PLAYING] [Disenchanted](https://music.youtube.com/watch?v=95hfNjZictY) (skipped after 13s... I don't wanna cry again
-\[NOW PLAYING] [Your Love](https://music.youtube.com/watch?v=W2a8Ng1qM8Q) (skipped after 48s)
-\[NOW PLAYING] [Knockin' on Heaven's Door](https://music.youtube.com/watch?v=KzmuOh56U8Y) (i can't stop myself!)
-\[NOW PLAYING] [Look Up](https://music.youtube.com/watch?v=vqSenrjS-ZU) (i still can't whistle)
+- \[NOW PLAYING] [This is Halloween](https://music.youtube.com/watch?v=VpS5vMlmqK4) (skipped after 6s)
+- \[NOW PLAYING] [Halah](https://music.youtube.com/watch?v=vHGHcvJDpaA)
+- \[NOW PLAYING] [Call Me](https://music.youtube.com/watch?v=53QELDvqpxA)
+- \[NOW PLAYING] [F1](https://music.youtube.com/watch?v=YhX_Woa3kVA) (i'm not in the racing mood rn)
+- \[NOW PLAYING] [Disenchanted](https://music.youtube.com/watch?v=95hfNjZictY) (skipped after 13s... I don't wanna cry again
+- \[NOW PLAYING] [Your Love](https://music.youtube.com/watch?v=W2a8Ng1qM8Q) (skipped after 48s)
+- \[NOW PLAYING] [Knockin' on Heaven's Door](https://music.youtube.com/watch?v=KzmuOh56U8Y) (i can't stop myself!)
+- \[NOW PLAYING] [Look Up](https://music.youtube.com/watch?v=vqSenrjS-ZU) (i still can't whistle)
 
 _32 minutes later_
 
@@ -109,7 +109,7 @@ _32 minutes later_
 Let's do a quick check on socials.
 Or... check texts. I know I've got nothing.
 
-\[NOW PLAYING] [Mr. Lonely](https://music.youtube.com/watch?v=ASEK1UPX1VU) (repeated 3 times)
-\[NOW PLAYING] [End of line](https://music.youtube.com/watch?v=NOMa56y_Was)
+- \[NOW PLAYING] [Mr. Lonely](https://music.youtube.com/watch?v=ASEK1UPX1VU) (repeated 3 times)
+- \[NOW PLAYING] [End of line](https://music.youtube.com/watch?v=NOMa56y_Was)
 
 ![End Of Line](endOfLine.gif)
