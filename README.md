@@ -27,7 +27,7 @@ zsh: permission denied: ./forrest.py
         "c": 'printf("just gettin started\n"); // almost forgot the simicolon'
     },
     "vibe": "cli > gui",
-    "mbti": "infp > intp"
+    "mbti": "intp > infp"
 }
 
 Somethin's not right...

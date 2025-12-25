@@ -15,7 +15,7 @@ aboutMe: dict = {
         "c": 'printf("just gettin started\n"); // almost forgot the simicolon',
     },
     "vibe": "cli > gui",
-    "mbti": "infp > intp",
+    "mbti": "intp > infp",
 }
 
 # and that's all i had to say about that...
