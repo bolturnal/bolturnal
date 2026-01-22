@@ -7,15 +7,14 @@ from schoolBag import mathe
 
 aboutMe: dict = {
     "name": "bolthead",
-    "location": "/home/theGrid/",
+    "location": "/boot/theGrid/",
     "age": 17,
     "programs": {
         "python": "good enough grip",  # NOTE: fuck PEP8 rules
         "shell": "[[ it's very weird ]]",
         "c": 'printf("just gettin started\n"); // almost forgot the simicolon',
     },
-    "vibe": "cli > gui",
-    "mbti": "intp > infp",
+    "mbti": "inxp",
 }
 
 # and that's all i had to say about that...
